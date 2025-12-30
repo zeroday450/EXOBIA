@@ -1,39 +1,5 @@
 # EXOBIA
 
-Artefact conceptuel conçu pour tester la résilience cognitive des dispositifs défensifs.
+EXOBIA est un artefact conceptuel conçu pour éprouver la résilience cognitive des dispositifs défensifs, non par la sophistication de son implémentation, mais par l’indétermination qu’il impose aux chaînes d’analyse. Il ne relève ni du malware, ni de l’outil, ni d’une preuve de concept exploitable au sens opérationnel. Toute tentative de le traiter comme tel constitue déjà un biais de lecture.
 
-EXOBIA n’est pas un malware.
-
-EXOBIA n’est pas un outil.
-
-EXOBIA n’est pas une preuve de concept exploitable.
-
-
-EXOBIA est un leurre opérationnel destiné à provoquer une surcharge analytique
-au sein des chaînes de détection, d’investigation et de décision.
-
-
-Aucune exploitation.
-
-Aucun impact infrastructurel.
-
-Aucune finalité offensive directe.
-
-
-Objectif unique :
-
-observer ce qui se produit lorsqu’un système défensif consacre
-
-des ressources critiques à un objet volontairement inclassable.
-
-
-Ce dépôt documente :
-
-– une intention stratégique,
-
-– une construction cognitive,
-
-– un déplacement du terrain d’affrontement.
-
-
-L’implémentation n’est pas le centre de gravité du projet.
+EXOBIA agit comme un leurre non pas technique, mais décisionnel : il force les systèmes de détection, d’investigation et de priorisation à engager des ressources critiques sur un objet dont la qualification ne peut être stabilisée sans arbitrage interprétatif. Aucune exploitation n’est recherchée, aucun impact infrastructurel n’est produit, aucune finalité offensive directe n’est poursuivie. L’unique objectif consiste à observer ce qui se déplace lorsqu’un système défensif consacre du temps, de l’attention et de la responsabilité à un objet volontairement inclassable. Ce dépôt ne documente ni une attaque, ni une méthode, mais une intention stratégique, une construction cognitive et un déplacement du terrain d’affrontement. L’implémentation existe, mais elle n’est pas le centre de gravité du projet.
