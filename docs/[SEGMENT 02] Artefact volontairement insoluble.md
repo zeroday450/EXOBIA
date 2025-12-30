@@ -1,4 +1,4 @@
-[SEGMENT 02] Artefact volontairement insoluble
+[SEGMENT 02] - Artefact volontairement insoluble
 
 EXOBIA n’est pas défini par son implémentation. Sa matérialisation reste secondaire et peut varier sans altérer sa fonction, car l’artefact est conçu avant tout comme un objet non classable, injecté dans un environnement défensif structuré autour de la catégorisation rapide des menaces. Il n’adhère à aucun modèle opérationnel standard, ne s’aligne ni sur une logique d’exploitation, ni sur un mécanisme de persistance, ni sur une défaillance évidente, ni sur un simple bruit technique. Aucune hypothèse ne s’impose naturellement, et aucune ne peut être éliminée sans engager un coût analytique réel.
 
