@@ -1,4 +1,4 @@
-[SEGMENT 04] Statut réel d’EXOBIA
+[SEGMENT 04] - Statut réel d’EXOBIA
 
 EXOBIA ne possède pas de statut propre et toute tentative de le lui attribuer constitue déjà une altération de ce qu’il est censé décrire. Il ne peut être qualifié ni comme artefact opérationnel, ni comme système autonome, ni comme attaque au sens classique, car ces catégories supposent une stabilité minimale de l’intention et de la finalité qu’EXOBIA ne maintient jamais. Son existence dépend intégralement du contexte dans lequel il est observé, analysé ou instrumenté, et hors de ce cadre défensif actif, il ne subsiste qu’une structure résiduelle sans portée opérationnelle directe.
 
