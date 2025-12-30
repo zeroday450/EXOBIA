@@ -1,71 +1,13 @@
 [SEGMENT 01] — Déplacement du problème
 
-La majorité des scénarios offensifs contemporains restent centrés sur des vecteurs identifiés :
-MITM, injection, phishing, exploitation logicielle ciblée.
+La plupart des offensives contemporaines opèrent dans un espace déjà stabilisé. Les vecteurs sont identifiés, nommés, outillés. Ils ont été testés, mesurés, industrialisés, puis absorbés par des architectures défensives construites précisément pour les attendre. Ce n’est pas leur efficacité qui est en cause, mais leur positionnement. Ils existent à l’intérieur d’un cadre que la défense connaît suffisamment pour le surveiller sans s’y épuiser.
 
-Ces axes ont été :
+À mesure que les dispositifs se complexifient, la sécurité cesse d’être un problème purement technique. Elle devient une propriété émergente d’un système socio-technique sous contrainte permanente. Les mécanismes ne tiennent que parce qu’un ensemble d’acteurs humains maintient, en continu, une cohérence fragile : arbitrer, prioriser, interpréter, corriger. Ce travail n’est ni formalisable entièrement, ni automatisable sans perte. Il constitue pourtant le socle réel de la posture défensive.
 
-largement documentés,
+L’erreur classique consiste à attaquer ce que la défense protège explicitement. Le déplacement consiste à s’intéresser à ce qui rend cette protection possible, mais qui n’est jamais traité comme une surface d’attaque. Un SOC ne protège pas des systèmes ; il protège une représentation opérationnelle du réel. Cette représentation dépend d’états cognitifs, de charges contextuelles, de routines décisionnelles et de biais initiaux qui ne sont ni monitorés ni sécurisés comme des actifs.
 
-instrumentés,
+La même logique s’applique aux chaînes automatisées. Avant toute détection, il existe une phase silencieuse : initialisation, hypothèses implicites, hiérarchies héritées, interprétation du premier signal. C’est à ce moment que se fixe la trajectoire d’analyse. Une fois cette trajectoire engagée, la majorité des mécanismes défensifs ne font que la renforcer.
 
-industrialisés,
+Le déplacement ne vise donc pas une faille identifiable. Il vise une dépendance structurelle : la nécessité, pour un système défensif, de produire du sens exploitable en continu. Intervenir en amont de cette production, là où le cadre n’est pas formalisé parce qu’il est supposé stable, revient à déplacer la surface d’attaque hors du périmètre reconnu.
 
-et durcis par des années de retour d’expérience défensive.
-
-Ils sont connus, mesurés, anticipés.
-Ils imposent une attaque directe, à portée définie, dans un cadre déjà cartographié.
-
-Le constat n’est pas que ces attaques sont impossibles.
-Le constat est qu’elles sont structurellement attendues.
-
-Or, plus un système défensif accumule de paramètres, de contrôles et de couches,
-plus il dépend de facteurs non techniques pour rester cohérent.
-
-À la racine d’une défense avancée, on ne trouve pas une règle firewall ou un EDR.
-On trouve :
-
-de l’attention,
-
-de la priorisation,
-
-de la coordination,
-
-une capacité humaine à maintenir une vue juste sous contrainte.
-
-Ce sont ces éléments qui permettent aux protections techniques d’exister et de fonctionner.
-
-L’attaque ne porte donc pas sur un mécanisme,
-mais sur ce qui rend ce mécanisme opérant.
-
-Chaîne minimale :
-
-un SOC dépend de cerveaux,
-
-des cerveaux dépendent d’états cognitifs,
-
-ces états dépendent de fatigue, de charge, de pression, de contexte,
-
-et de la manière dont l’information est présentée, classée, interprétée.
-
-Même logique côté machine :
-
-initialisation,
-
-premières hypothèses,
-
-priorités implicites,
-
-directives héritées,
-
-biais introduits dès le premier signal reçu.
-
-Plutôt que d’attaquer un axe surprotégé,
-le déplacement consiste à intervenir en amont du périmètre,
-là où la sécurité n’est pas formalisée car considérée comme acquise.
-
-Non pas exploiter une faille technique,
-mais exploiter une dépendance structurelle.
-
-Ce segment ne décrit pas une attaque.
-Il redéfinit où se situe réellement la surface d’attaque.
+Ce segment ne propose pas une méthode. Il modifie le point à partir duquel une attaque devient pensable.
