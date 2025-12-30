@@ -100,4 +100,5 @@
 
 
 
-Cette arborescence ne représente pas une architecture fonctionnelle, mais un artefact de projection destiné à observer les mécanismes de reconstruction de sens appliqués par un lecteur technique.
+*Cette arborescence ne représente pas une architecture fonctionnelle,*
+*mais un artefact de projection destiné à observer les mécanismes de reconstruction de sens appliqués par un lecteur technique.*
