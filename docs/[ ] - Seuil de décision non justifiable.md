@@ -1,4 +1,4 @@
-[ ] — Seuil de décision non justifiable
+[ / ] - Seuil de décision non justifiable
 
 EXOBIA n’offre aucune garantie. Il exige que toute action soit engagée sans modèle stable, sans possibilité de retour arrière ni de validation a posteriori. Chaque intervention mobilise des coûts invisibles : temporels, cognitifs, décisionnels, parfois vitaux. Les normes qui structurent habituellement les choix restent présentes, mais elles ne stabilisent rien : elles servent de tremplin à l’incertitude, deviennent vecteur de désynchronisation, et transforment chaque hypothèse en pari sans justification possible.
 
