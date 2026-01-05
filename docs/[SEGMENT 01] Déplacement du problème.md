@@ -1,4 +1,4 @@
-[SEGMENT 01] — Déplacement du problème
+[SEGMENT 01] - Déplacement du problème
 
 La plupart des offensives contemporaines opèrent dans un espace déjà stabilisé. Les vecteurs sont identifiés, nommés, outillés. Ils ont été testés, mesurés, industrialisés, puis absorbés par des architectures défensives construites précisément pour les attendre. Ce n’est pas leur efficacité qui est en cause, mais leur positionnement. Ils existent à l’intérieur d’un cadre que la défense connaît suffisamment pour le surveiller sans s’y épuiser.
 
