@@ -1,3 +1,9 @@
-EXOBIA est un artefact conceptuel conçu pour éprouver la résilience cognitive des dispositifs défensifs, non par la sophistication de son implémentation, mais par l’indétermination qu’il impose aux chaînes d’analyse. Il ne relève ni du malware, ni de l’outil, ni d’une preuve de concept exploitable au sens opérationnel. Toute tentative de le traiter comme tel constitue déjà un biais de lecture.
+# EXOBIA
 
-EXOBIA agit comme un leurre non pas technique, mais décisionnel : il force les systèmes de détection, d’investigation et de priorisation à engager des ressources critiques sur un objet dont la qualification ne peut être stabilisée sans arbitrage interprétatif. Aucune exploitation n’est recherchée, aucun impact infrastructurel n’est produit, aucune finalité offensive directe n’est poursuivie. L’unique objectif consiste à observer ce qui se déplace lorsqu’un système défensif consacre du temps, de l’attention et de la responsabilité à un objet volontairement inclassable. Ce dépôt ne documente ni une attaque, ni une méthode, mais une intention stratégique, une construction cognitive et un déplacement du terrain d’affrontement. L’implémentation existe, mais elle n’est pas le centre de gravité du projet.
+La plupart des vecteurs offensifs opèrent dans un espace que la défense connaît et surveille. EXOBIA ne vise pas cet espace.
+
+Un SOC ne protège pas des systèmes. Il protège une représentation opérationnelle du réel. Cette représentation repose sur des états cognitifs, des routines décisionnelles, des hiérarchies d'interprétation qui ne sont ni monitorées ni sécurisées comme des actifs. EXOBIA agit sur ce point précis : la nécessité, pour un système défensif, de produire du sens exploitable en continu.
+
+L'artefact est techniquement cohérent, syntaxiquement valide, structurellement exploitable par des systèmes automatisés. Il refuse toute modélisation mentale stable. Les signaux sont crédibles, les corrélations existent, la convergence interprétative n'advient jamais. Ce que l'organisation cesse d'observer pendant qu'elle tente de le qualifier est l'espace dans lequel EXOBIA opère.
+
+Il ne compromet rien, ne persiste pas, ne produit aucun impact infrastructurel. Ces propriétés ne sont pas des limites. Elles maintiennent l'espace cognitif ouvert.
